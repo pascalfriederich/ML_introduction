@@ -1,0 +1,13 @@
+*.sh
+*.png
+*.mp4
+__pychache__
+logistic_regression
+nn
+.ipynb_checkpoints/
+nn.py
+sigmoid.py
+kreis1.py
+kreis2.py
+extend_movie.py
+logistic_regression.py
