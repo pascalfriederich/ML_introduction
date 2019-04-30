@@ -6,7 +6,6 @@ import torch
 np.random.seed(seed=4)
 
 
-
 def circle(radius, num_points = 1000):
     x1 = np.linspace(0, radius, num_points)
     x2 = np.sqrt(1 - x1**2)
